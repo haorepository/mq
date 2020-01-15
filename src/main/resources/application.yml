@@ -1,0 +1,4 @@
+server:
+  port: 8222
+  servlet:
+    context-path: /mq
